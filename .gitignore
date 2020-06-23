@@ -1,6 +1,8 @@
 *.pdf
 *.odp
-*.mp4
-*.mwb
-*.jpg
 *.odg
+*.zip
+.~lock*
+*.class
+Prácticos/
+
